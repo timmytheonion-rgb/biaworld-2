@@ -25,7 +25,7 @@
 			{"type": 0, "text": "HUMOUR"},
 			{"type": 1, "anim": "praise_back"}
 		],
-		[{"type": 0, "text": "THE FOLLOWING JOKE MAY OFFEND PEOPLE. IF YOU ARE OFFENDED, PLEASE GO TO [REDACTED]"}],
+		[{"type": 0, "text": "THE FOLLOWING JOKE MAY OFFEND PEOPLE. IF YOU ARE OFFENDED, PLEASE GO TO MEOWBAH.COM"}],
 		[{"type": 0, "text": "Ready for some classic Jawish comedy?"}],
 		[{"type": 0, "text": "Time for whatever horrible fucking jokes the creator of this site wrote."}]
 	],
@@ -84,7 +84,7 @@
 		[
 			{"type": 0, "text": "YOU"},
 			{"type": 0, "text": "ARE"},
-			{"type": 0, "text": "^^**GROUNDED!**^^"},
+			{"type": 0, "text": "GROUNDED!"},
 			{"type": 1, "anim": "shrug_back"}
 		],
 		[

@@ -15,7 +15,7 @@ let globalItem ={
 		thisuser.socket.emit("newslots",thisuser.slots);
 	}},
 	"hat_elon":{name:'Elon Hat',id:'hat_elon',cost:15,max:1,eff:(thisuser,item)=>{
-		let newitem =  {type:'hat',name:'hat_elon',src:'https://bonzi.gay/img/bonzi/elon.png'};
+		let newitem =  {type:'hat',name:'hat_elon',src:'https://bonzi.gay/img/bonzi/elon.webp'};
 		for(let i=0;i<thisuser.public.cosmetics.length;i++){
 			let thisitem = thisuser.public.cosmetics[i];
 			if(thisitem.name.startsWith('hat'))thisuser.public.cosmetics.splice(i,1);
